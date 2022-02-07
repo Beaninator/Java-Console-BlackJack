@@ -1,0 +1,14 @@
+Contents: 
+Hand value is 0
+
+Contents: Ace-of-Hearts 
+Hand value is 11
+
+Contents: Ace-of-Hearts Seven-of-Spades 
+Hand value is 18
+
+Contents: Ace-of-Hearts Seven-of-Spades Ace-of-Diamonds 
+Hand value is 19
+
+Contents: Ace-of-Hearts Seven-of-Spades Ace-of-Diamonds Eight-of-Clubs 
+Hand value is 17
